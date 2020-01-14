@@ -39,23 +39,23 @@ Or, if you'd like me to comment on your work, you could ask me to review a PR th
 
 ### Create a github account
 
-Create an account. Old people say "if you want a job, you must make a good LinkedIn profile." I say pfft. Make a good github (or other hosted code repo) 
+[x] Create an account. Old people say "if you want a job, you must make a good LinkedIn profile." I say pfft. Make a good github (or other hosted code repo) 
 profile instead and sk8 or die.
 
-* Set a nice profile picture for yourself.
-* Set your name and organizational affiliation
+[x] * Set a nice profile picture for yourself.
+[x] * Set your name and organizational affiliation
 
 
 
 ### Join the class github stuff
 
-1. From canvas, get a link to the class github "team", and join/request to join it.
-1. Once you are a member of the team, you can view the class repo, linked on canvas.
+[x] 1. From canvas, get a link to the class github "team", and join/request to join it.
+[x] 1. Once you are a member of the team, you can view the class repo, linked on canvas.
 
 
 ### Make a personal repo for your work for this class
 
-* add me `deargle` as a collaborator. You can fork the class repo. Or not.
+[x] * add me `deargle` as a collaborator. You can fork the class repo. Or not.
 
 
 ### Create a stupid-easy online web presence.
