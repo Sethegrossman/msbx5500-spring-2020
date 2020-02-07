@@ -179,4 +179,4 @@ After this lab, you should be _conversant_ in the following areas. Deliverable: 
 * [x] what is AWS, what is sagemaker, how does it compare with google Colab
 	1. AWS is Amazon's cloud computing division. They give computing solutions to users and eliminate the need for people to purchase their own drivers, servers, and networking capabilities.
 	2. Amazon SageMaker is AWS's cloud machine learning division Sagemakeer lets analysts use Amazons computing capabilities to store data, run code, and compute results.
-	3. Google Colab is Google's user level solution similar to SageMaker. It is a free service that has limits on computing power and datastorage, but it works on a jupyter lab type view and allows users to script, collaborate on, and run code.
+	3. Google Colab is Google's user level solution similar to SageMaker. It is a free service that has limits on computing power and data storage, but it works on a jupyter lab type view and allows users to script, collaborate on, and run code.
