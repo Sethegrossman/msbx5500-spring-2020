@@ -93,7 +93,7 @@ Okay, you can just use the [GitHub Desktop](https://desktop.github.com/) client,
 Jupyter is everywhere. I want you to try it in several places.
 
 
-### Jupyter via Anaconda
+### Jupyter via Anaconda [x]
 
 Anaconda is a python distribution with science-y python libraries pre-compiled and ready-to-go. Very very complicated to compile some of the science-oriented python libraries on Windows otherwise.
 
@@ -122,7 +122,8 @@ But there are many other places that will let you run jupyter notebooks on their
 * [Google Colab](https://colab.research.google.com)
 * [Microsoft Azure Notebooks](https://notebooks.azure.com/)
 
-- [ ] **Deliverable:** Demonstrate somehow that you've used each of these notebook services.
+- [x] **Deliverable:** Demonstrate somehow that you've used each of these notebook services.
+
 
 Kaggle also has hosted jupyter notebooks. [Kaggle also has good python-for-datascience tutorials](https://www.kaggle.com/learn/). Do the first seven (!) or so -- up to the TensforFlow one. These will take a while, but should be very good get-feet-wet introductions.
 
