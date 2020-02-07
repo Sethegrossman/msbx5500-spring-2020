@@ -128,7 +128,7 @@ Kaggle also has hosted jupyter notebooks. [Kaggle also has good python-for-datas
 
 ![image](https://user-images.githubusercontent.com/1174653/72477008-de7eab00-37ab-11ea-8806-65867f58ab61.png)
 
-- [x] **Deliverable:** Show me somehow that you've gone through all the kaggle tutorials. Get as far as you can. Take notes on what you'd like to talk more about.
+- [x] **Deliverable:** Show me somehow that you've gone through all the kaggle tutorials. Get as far as you can. Take notes on what you'd like to talk more about. (See attached files)
 
 
 ## Job Market
@@ -145,7 +145,7 @@ What job requirements stand out to you in the postings that you see:
 
 Which jobs are the most interesting to you? Why?
 
-- [x ] **Deliverable:** Show me what method you are using to manage your job search process.
+- [x] **Deliverable:** Show me what method you are using to manage your job search process.
 (I have an offer, I am going to accept at the start of next week)
 
 
