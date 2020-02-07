@@ -156,11 +156,27 @@ It is Very Important to not sound and look like an idiot when talking about busi
 After this lab, you should be _conversant_ in the following areas. Deliverable: write up little elevator-pitch-length responses to questions such as the following.
 
 
-* [ ] read the chapters from the Business Analytics book that will help you answer questions such as the following:
-	* [ ] what is business analytics?
-	* [ ] why learn about business analytics if the job role won't be an analyst -- what job roles involve analytics?
-	* [ ] what is predictive analytics? what is supervised analytics, and what is unsupervised analytics?
-	* [ ] what is a target? what are features? What are dependent variables, and independent variables?
-	* [ ] what is a model?
-* [ ] what is jupyter, how does it relate to python, where can one find a jupyter, contrast with anaconda and local notebooks
-* [ ] what is AWS, what is sagemaker, how does it compare with google Colab
+* [x] read the chapters from the Business Analytics book that will help you answer questions such as the following:
+	* [x] what is business analytics?
+		1. Business analytics is using information from a business to make decisions. It is creating a model that is sharable and repeatable. This often uses data landscaping and stastical modeling, but could just be experienced managers writing down their own decision making ideology in such a way that it is repeatable and usable by others.
+		
+	* [x] why learn about business analytics if the job role won't be an analyst -- what job roles involve analytics?
+		1. Most business roles require analytics. Information is needed to make decisions accross all aspects of the business. Even people who are computer illiterate 	need to understand analytics so they can use information from others to make decisions.
+		
+	* [x] what is predictive analytics? what is supervised analytics, and what is unsupervised analytics?
+		1. Predictive analytics is guessing a value based on other information there is no correct answer, but some ways of guessing that value work better than others.
+		2. Supervised analytics is creating a model with a target in mind. It results in guessing a value that you assign to be guessed.
+		3. Unsupervised analytics are often clustering models where the model attempts to identify similarities and differences between records. In unsupervised models there is no target variable, just searching for patterns.
+		
+	* [x] what is a target? what are features? What are dependent variables, and independent variables?
+		1. A target or dependent variable is the final value one is trying to compute.Features or independent variables are the bits of information being used to compute the outcome/target/depedent variable. They can be columns of records, interactions between bits of information, or many other transformations that are possible inorder to best suit it to predict the target.
+	
+	* [x] what is a model?
+		1. A model is transferable, repeatable way to make a decision.
+		
+* [x] what is jupyter, how does it relate to python, where can one find a jupyter, contrast with anaconda and local notebooks
+	1. Jupyter is a program that enables users to run code in various languages, write explantions of what is occuring, and visualize results. It differs from anaconda in that anaconda is simply a package manager that enurses different librarys work well together.
+* [x] what is AWS, what is sagemaker, how does it compare with google Colab
+	1. AWS is Amazon's cloud computing division. They give computing solutions to users and eliminate the need for people to purchase their own drivers, servers, and networking capabilities.
+	2. Amazon SageMaker is AWS's cloud machine learning division Sagemakeer lets analysts use Amazons computing capabilities to store data, run code, and compute results.
+	3. Google Colab is Google's user level solution similar to SageMaker. It is a free service that has limits on computing power and datastorage, but it works on a jupyter lab type view and allows users to script, collaborate on, and run code.
