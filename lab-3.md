@@ -9,8 +9,8 @@ Lab 3: Script-kiddie machine learning model fitting and evaluation
 * for the model with the highest precision-recall AUC, report the cutoff threshold that maximizes the F1 score. Report the confusion matrix for the same threshold.
 
 
-What?
------
+Huh?
+----
 
 See [this example notebook](https://github.com/deargle/deargle.github.io/blob/master/notebooks/ml_model_evaluation.ipynb). It has a lot of links as comments.
 
